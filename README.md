@@ -1,7 +1,6 @@
 # 📈 Real-Time Financial Analysis Dashboard
 
-Bu proje, Merkez Bankası (TCMB) verilerini anlık olarak takip eden, görselleştiren ve döviz hesaplamaları yapan **Full-Stack** bir web uygulamasıdır. Yeni mezun bir bilgisayar mühendisi olarak modern web teknolojilerini (React, Node.js) ve veri görselleştirme tekniklerini harmanladığım bir çalışmadır.
-
+Bu proje, Merkez Bankası (TCMB) verilerini anlık olarak takip eden, görselleştiren ve döviz hesaplamaları yapan **Full-Stack** bir web uygulamasıdır. 
 ## 🚀 Öne Çıkan Özellikler
 
 * **Anlık Veri Akışı:** Node.js backend üzerinden TCMB verileri proxy edilerek güvenli bir şekilde çekilir.
